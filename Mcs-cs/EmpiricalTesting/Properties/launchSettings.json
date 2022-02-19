@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EmpiricalTesting": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
